@@ -30,7 +30,6 @@ connects disease to reproductive fitness in human populations.
 
 - [South-Asian-Wild-boar-and-pig](https://github.com/JianhaiChen/South-Asian-Wild-boar-and-pig) — wild boar origin and pig population genomics
 - [HumanDiseaseFertilityPleiotropy](https://github.com/JianhaiChen/HumanDiseaseFertilityPleiotropy) — disease prevalence and reproductive fitness
-- [HiC2MicroC.py](https://github.com/JianhaiChen/HiC2MicroC.py) — Hi-C to Micro-C conversion
 
 ### Elsewhere
 
