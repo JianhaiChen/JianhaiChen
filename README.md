@@ -8,7 +8,7 @@ Researcher in evolutionary genomics and statistical genetics at the
 
 **Homepage: https://jianhaichen.github.io/**
 
-I work on how new genes arise and acquire function, how genome architecture
+I work on evolutionary genomics in general. Some specific topics inlcude, but not limited to, how new genes arise and acquire function, how genome architecture
 shapes regulatory evolution, and how naturally segregating genetic variation
 connects disease to reproductive fitness in human populations.
 
