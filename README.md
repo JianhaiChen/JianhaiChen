@@ -21,7 +21,7 @@ connects disease to reproductive fitness in human populations.
 
 ### Selected work
 
-- Jian-Hai Chen et al. ,Ancient introgression drives wild boar expansion and phenotypic diversification of domestic pigs.Science393,1335-1341(2026). DOI:10.1126/science.adq7553
+- Jian-Hai Chen et al. ,Ancient introgression drives wild boar expansion and phenotypic diversification of domestic pigs.Science393,1335-1341(2026).DOI:10.1126/science.adq7553 https://www.science.org/doi/10.1126/science.adq7553
 - Jianhai Chen, Bowei Kang, Manyuan Long, Lin S. Chen. Disease–fertility coupling shapes disease prevalence, 01 September 2026, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-10844830/v1]
 - *Evolutionarily new genes in humans with disease phenotypes reveal functional enrichment patterns shaped by adaptive innovation and sexual selection.* **Genome Research** (2025)
 - *The rapid evolution of de novo proteins in structure and complex.* **Genome Biology and Evolution** (2024)
