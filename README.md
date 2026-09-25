@@ -21,7 +21,7 @@ connects disease to reproductive fitness in human populations.
 
 ### Selected work
 
-- *Ancient introgression drives wild boar expansion and phenotypic diversification of domestic pigs.* **Science** (2026, accepted)
+- *Ancient introgression drives wild boar expansion and phenotypic diversification of domestic pigs.* **Science** (https://www.science.org/doi/10.1126/science.adq7553)
 - *Evolutionarily new genes in humans with disease phenotypes reveal functional enrichment patterns shaped by adaptive innovation and sexual selection.* **Genome Research** (2025)
 - *The rapid evolution of de novo proteins in structure and complex.* **Genome Biology and Evolution** (2024)
 - *Novel mutation leading to splice donor loss in a conserved site of DMD gene causes Duchenne muscular dystrophy with cryptorchidism.* **Journal of Medical Genetics** (2024)
