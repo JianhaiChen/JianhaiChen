@@ -23,9 +23,11 @@ connects disease to reproductive fitness in human populations.
 
 - Jian-Hai Chen et al. ,Ancient introgression drives wild boar expansion and phenotypic diversification of domestic pigs.Science393,1335-1341(2026).DOI:10.1126/science.adq7553 https://www.science.org/doi/10.1126/science.adq7553
 - Jianhai Chen, Bowei Kang, Manyuan Long, Lin S. Chen. Disease–fertility coupling shapes disease prevalence, 01 September 2026, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-10844830/v1]
-- *Evolutionarily new genes in humans with disease phenotypes reveal functional enrichment patterns shaped by adaptive innovation and sexual selection.* **Genome Research** (2025)
+- Jian-Hai Chen, Patrick Landback, Deanna Arsala, Alexander Guzzetta, Shengqian Xia, Jared Atlas, Dylan Sosa, Yong E. Zhang, Jingqiu Cheng, Bairong Shen, and Manyuan Long. 2025, Evolutionarily new genes in humans with disease phenotypes reveal functional enrichment patterns shaped by adaptive innovation and sexual selection. Cold Spring Harbor Laboratory Press.
+https://genome.cshlp.org/content/35/3/379
 - *The rapid evolution of de novo proteins in structure and complex.* **Genome Biology and Evolution** (2024)
-- *Novel mutation leading to splice donor loss in a conserved site of DMD gene causes Duchenne muscular dystrophy with cryptorchidism.* **Journal of Medical Genetics** (2024)
+- Chen J, Jia Y, Zhong J, Zhang K, Dai H, He G, Li F, Zeng L, Fan C, Xu H. Novel mutation leading to splice donor loss in a conserved site of DMD gene causes Duchenne muscular dystrophy with cryptorchidism. J Med Genet. 2024 Jul 19;61(8):741-749. doi: 10.1136/jmg-2024-109896. PMID: 38621993; PMCID: PMC11287555.
+
 
 ### Projects here
 
