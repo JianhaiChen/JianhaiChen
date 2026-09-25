@@ -8,7 +8,7 @@ Researcher in evolutionary genomics and statistical genetics at the
 
 **Homepage: https://jianhaichen.github.io/**
 
-I work on evolutionary genomics in general. Some specific topics inlcude, but not limited to, how new genes arise and acquire function, how genome architecture
+I work on evolutionary genomics in general. Some specific topics inlcude, but not limited to, population genetics, 3D genomes, how new genes arise and acquire function, how genome architecture
 shapes regulatory evolution, and how naturally segregating genetic variation
 connects disease to reproductive fitness in human populations.
 
@@ -16,7 +16,7 @@ connects disease to reproductive fitness in human populations.
 
 - New gene evolution: de novo origination, duplication, enhancer capture
 - Population and medical genomics: selection, local adaptation, rare variants
-- Statistical genetics: GWAS summary statistics, Mendelian randomization
+- Statistical genetics: GWAS summary statistics, Mendelian randomization for human diseases
 - 3D genome organization: chromatin architecture in maize NAM lines
 
 ### Selected work
